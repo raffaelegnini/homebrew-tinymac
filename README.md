@@ -5,6 +5,7 @@
 
 ```bash
 brew tap raffaelegnini/tinymac
+brew trust raffaelegnini/tinymac   # once: Homebrew only loads casks from taps you trust
 
 brew install --cask tinymac        # TinyMac: TinyTask 1:1, nothing added
 brew install --cask tinymac-plus   # TinyMac Plus: the same engine with an editor and extras
