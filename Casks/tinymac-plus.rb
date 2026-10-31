@@ -1,6 +1,6 @@
 cask "tinymac-plus" do
-  version "1.1.0"
-  sha256 "47335f6e8d177e92cd5e9d5dca47f70842c472dce42ab2308c0a472b83ad59a8"
+  version "1.1.1"
+  sha256 "ee092125ad98457adca4f1b08b4a3f152f8c232094f907dd1e725537d4534b94"
 
   url "https://github.com/raffaelegnini/tinymac/releases/download/v#{version}/TinyMacPlus-#{version}-macOS.zip"
   name "TinyMac Plus"
